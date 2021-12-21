@@ -1,0 +1,1 @@
+# bidnez-resources
