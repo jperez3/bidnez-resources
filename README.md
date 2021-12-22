@@ -56,9 +56,11 @@ _Creating the LLC will take 5-10 business days to process_
 * [California LLC Registration](https://llcbizfile.sos.ca.gov/registration)
 
 
-Cost:
-    - LLC Registration: $75
-    - Franchise Tax Board: $800/yr (might be waived on first year of business)
+
+| Service             | Price   | Note                                      |
+| :------------------ | :------ | :---------------------------------------- |
+| LLC Registration    | $75     |                                           |
+| Franchise Tax Board | $800/yr | might be waived on first year of business |
 
 ### 5. Apply for Employer ID Number (EIN)
 
