@@ -38,7 +38,7 @@ _Get your domain rolling so that you can create an email for the remaining busin
 
 ### 3. Virtual Addresses
 
-_A virtual address allows you send mail for the business to a real address without using your personal address to protect your privacy. This should probably be done first._
+_A virtual address allows you send mail for the business to a real address without using your personal address to protect your privacy. You will need this address while setting up the rest of the business._
 
 
 * [ipostal1](https://ipostal1.com/virtual-business-address.php) - one of the more popular virtual address services (2021)
@@ -71,6 +71,8 @@ _An EIN is like a SSN for businesses. It's used for tax purposes and allows you 
 
 ### 6. Apply for California Business License
 
+_A business license is established at the city level and will have different requirements for different business types._
+
 * [California Department of Tax and Fee Administration](https://onlineservices.cdtfa.ca.gov/_/) - Create a new account 
 
 
@@ -79,8 +81,19 @@ _An EIN is like a SSN for businesses. It's used for tax purposes and allows you 
 _Once you receive the EIN, you are ready to open a bank account for your business_
 
 
+### 8. Sign up for a book keeping service
 
-### Articles
+* [Quickbooks Online](https://quickbooks.intuit.com/)
+
+| Service           | Price    | Note                 |
+| :---------------- | :------- | :------------------- |
+| Quickbooks Online | ~$150/yr | Simple Start package |
+
+
+
+### Resources
+
+#### Articles
 
 * [The Ultimate Guide to Starting a Business in California](https://www.hyke.me/resources/california/the-ultimate-guide-to-starting-a-business-in-california/)
 * [California LLC Franchise Tax Waved in First Year](https://www.corpnet.com/blog/california-llc-franchise-tax-waived-in-first-year/)
@@ -88,8 +101,8 @@ _Once you receive the EIN, you are ready to open a bank account for your busines
 * [What is an EIN? And why is it important?](https://www.sba.gov/blog/what-ein-why-it-important)
 
 
-### Videos
+#### Videos
 
 * [12 Legal Requirements to Start a Business in California](https://www.youtube.com/watch?v=6rFHemQqVSQ)
-* [LLC vs S-Corp](https://www.youtube.com/watch?v=eeTfuwb802k) - TLDR don't do it until net income is greater than $60k
+* [LLC vs S-Corp](https://www.youtube.com/watch?v=eeTfuwb802k) - TLDR don't do it until net income is greater than $40k/yr
 * [Virtual Mailbox 101](https://www.youtube.com/watch?v=f2k-rpRBu_E)
